@@ -1,1 +1,1 @@
-# spritelib.js
+# spritesvg.js
